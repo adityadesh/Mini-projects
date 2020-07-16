@@ -1,2 +1,2 @@
-# Mini-projects
+# Discovery of Importance of Handwashing
 Due to the ongoing pandemic of COVID-19 we all have re-discovered the importance of washing our hands frequently. But the origins of the importance of handwashing date back to the 1840s. During that time childbed fever, a deadly disease affecting women that just have given birth. About 10% of women who gave birth were victims of this decease. Dr. Ignaz Semmelweis from Vienna General Hospital was able to find it's probable root cause. In this mini-project, we're going to reanalyze the data that made Semmelweis discover the importance of handwashing.
